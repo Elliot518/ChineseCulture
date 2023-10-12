@@ -111,7 +111,7 @@ Mausoleum of Yandi in Yanling County, Hunan Province.
 
 &nbsp;
 
-### 3. Population distribution of ethnic minorities(少数名族的人口分布)
+### 3. Population distribution of ethnic minorities(少数民族的人口分布)
 
 中国的少数民族虽然人口相对数量很少，但是分布区
 域广泛，居住相对集中。广西、内蒙古、新疆、西藏、宁
