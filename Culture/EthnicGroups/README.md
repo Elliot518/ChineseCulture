@@ -42,26 +42,26 @@ the Huaxia ethnic group, who got the name of the Han in the Han Dynasty.
 
 - Supplement knowledge(补充知识点)
 
-```
-华夏：
-      
-原指中原地区的人民，也是汉朝以前对汉族先民的称谓。
-后来则包括中国全部领土，也是中国的代称。
-古人以服饰美丽为“华”，以疆界广阔为“夏”，“华夏”的本意就是“文化繁荣而疆域辽阔”。
-我们常常会说华夏大地。
+    ```
+    华夏：
+        
+    原指中原地区的人民，也是汉朝以前对汉族先民的称谓。
+    后来则包括中国全部领土，也是中国的代称。
+    古人以服饰美丽为“华”，以疆界广阔为“夏”，“华夏”的本意就是“文化繁荣而疆域辽阔”。
+    我们常常会说华夏大地。
 
-Huaxia: 
-Originally it means the people in the Central Plains of China, 
-and also the name of the ancestors of the Han people before the Han Dynasty. 
-Later, it contains the whole territory of China 
+    Huaxia: 
+    Originally it means the people in the Central Plains of China, 
+    and also the name of the ancestors of the Han people before the Han Dynasty. 
+    Later, it contains the whole territory of China 
 
-The ancient Chinese people described the beauty of clothes as "hua", 
-and the vastness of territory as "xia".
-Therefore the original meaning of "huaxia" means "the prosperity of culture and the vastness of territory."
+    The ancient Chinese people described the beauty of clothes as "hua", 
+    and the vastness of territory as "xia".
+    Therefore the original meaning of "huaxia" means "the prosperity of culture and the vastness of territory."
 
-黄河流域:
-黄河流域流经青海、四川、甘肃、宁夏、内蒙古、陕西、山西、河南、山东9个省区。
-```
+    黄河流域:
+    黄河流域流经青海、四川、甘肃、宁夏、内蒙古、陕西、山西、河南、山东9个省区。
+    ```
 
 
 
