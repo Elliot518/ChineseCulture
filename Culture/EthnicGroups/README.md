@@ -37,9 +37,9 @@ Huangdi's surname was Ji, and his assumed name was Xuanyuan
 Shi. Yandi was also a legendary ruler whose surname was Jiang and 
 assumed name was Shennong Shi. Both Huangdi and Yandi lived in 
 the late period of China's primitive society about 4,000 or 5,000 years 
-ago, and were the leaders of two different tribes living along the Yellow 
-River in present-day Shaanxi Province. A war once broke out between 
-Yandi's tribe and the Dongyi group headed by Chiyou in east China; 
+ago, and they were the leaders of two different tribes living along the Yellow 
+River in present-day Shanxi Province. <br>
+A war once broke out between Yandi's tribe and the Dongyi group which was leaded by Chiyou in east China; 
 Yandi's tribe allied with Huangdi's to defeat Chiyou. Conflicts later 
 occurred between Yandi's tribe and Huangdi's, and Yandi's tribe was 
 assimilated into Huangdi's after the it was defeated. After long term association and integration, Huangdi's tribe, Yandi's tribe, Dongyi 
@@ -61,6 +61,12 @@ the Huaxia ethnic group, who got the name of the Han in the Han Dynasty.
 - Statue of Huangdi(黄帝像)
 
     ![Statue of Huangdi](https://github.com/Elliot518/mcp-oss-repo/blob/main/culture/china/huangdi.png?raw=true)
+
+<hr>
+
+- Statue of Chiyou(蚩尤像)
+
+    <img src="https://github.com/Elliot518/mcp-oss-repo/blob/main/culture/china/chiyou.png?raw=true" style="zoom:25%">
 
 <hr>
 
