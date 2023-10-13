@@ -2,7 +2,7 @@
 
 <hr>
 
-## Ethnic Groups of China(中国的各名族)
+## Ethnic Groups of China(中国的各民族)
 
 ### 1. Brief Introduction(简介)
 
