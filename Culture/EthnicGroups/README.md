@@ -35,7 +35,7 @@ For thousands of years, there were a lot of representative people of Han ethnic 
 ### 2. Descendants of the Yan and Huang(炎黄子孙的后代)
 
 Since ancient times, Huangdi and Yandi were the common ancestors of the Chinese 
-nation. <br>
+nation. Therefore, all Chinese are descendants of Yan and Huang. <br>
 
 Huangdi's surname was Ji, and his assumed name was Xuanyuan 
 Shi. Yandi was also a legendary ruler whose surname was Jiang and 
@@ -50,7 +50,7 @@ The Huaxia ethnic group has been called the Han ethnic group since the Han Dynas
 
 <hr>
 
-黄帝和炎帝是中华民族的共同祖先。<br>
+黄帝和炎帝是中华民族的共同祖先。因此, 所有中国人都是炎黄子孙。<br>
 黄帝姓姬（Jī），号轩辕氏；炎帝姓姜，号神农氏。<br>
 黄帝和炎帝是两个部落的首领，都生活在距今四五千年前的中国原始社会后期。<br>
 当时，黄帝部落和炎帝部落都居住在黄河流域。炎帝族曾与中国东部的以蚩尤（Chīyóu）为首领的东夷集团发生战争，炎帝部落联合黄帝部落，打败了蚩尤。<br>
