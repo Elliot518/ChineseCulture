@@ -44,7 +44,7 @@ the late period of China's primitive society about 4,000 or 5,000 years
 ago, and they were the leaders of two different tribes living along the Yellow 
 River in present-day Shanxi Province. <br>
 A war once broke out between Yandi's tribe and the Dongyi group which was leaded by Chiyou in east of China, at first Chiyou was so strong and Yandi was defeated by Chiyou. <br>
-But later on, Yandi allied with Huangdi, they defeated Chiyou. <br>
+But later on, Yandi allied with Huangdi, they finally defeated Chiyou. <br>
 But conflicts later occurred between Yandi's tribe and Huangdi's, and Yandi's tribe was assimilated into Huangdi's after the it was defeated. After long term association and integration, Huangdi's tribe, Yandi's tribe, Dongyi and the Miao group in south China formed the mainstay of the Huaxia ethnic group. <br>
 The Huaxia ethnic group has been called the Han ethnic group since the Han Dynasty.
 
