@@ -79,3 +79,29 @@ had an animal as his shuxiang since his birth. Those born in a zi year
 belongs to the sign of the Rat, those born in a chou year the Ox, and 
 those in a yin year the Tiger, and so on.
 
+<hr>
+
+60年一甲子什么意思,中国传统文化之中，一甲子乃为60年。
+我们中国人认为六十年是一个轮回。
+一甲子为十天干与十二地支相结合而成，地支与天干两两相配，从而组成一甲子。
+
+What does 60 years called one JiaZi mean? 
+In traditional Chinese culture, one JiaZi represents 60 years, which is a cycle of sixty years. 
+We Chinese believe that sixty years is a reincarnation.
+
+One JiaZi-Year is the combination of ten heavenly stems and twelve earthly branches. 
+The earthly branches and heavenly stems match each other. Thus forming a Jiazi.
+
+六十干支组合乃为：
+
+　　甲子、乙丑、丙寅、丁卯、戊辰、己巳、庚午、辛未、壬申、癸酉
+
+　　甲戌、乙亥、丙子、丁丑、戊寅、己卯、庚辰、辛巳、壬午、癸未
+
+　　甲申、乙酉、丙戌、丁亥、戊子、己丑、庚寅、辛卯、壬辰、癸巳
+
+　　甲午、乙未、丙申、丁酉、戊戌、己亥、庚子、辛丑、壬寅、癸卯
+
+　　甲辰、乙巳、丙午、丁未、戊申、己酉、庚戌、辛亥、壬子、癸丑
+
+　　甲寅、乙卯、丙辰、丁巳、戊午、己未、庚申、辛酉、壬戌、癸亥
