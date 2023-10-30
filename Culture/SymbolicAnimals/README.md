@@ -17,6 +17,8 @@ year of birth of a person. Shuxiang , also called shengxiao(any of the 12
 animals representing the Earthly Branches), is a traditional way in China 
 for chronology and to record a person's age.
 
+![Twelve Symbolic Animals](https://github.com/Elliot518/mcp-oss-repo/blob/main/culture/china/SymbolicAnimals.png?raw=true)
+
 &nbsp;
 
 
