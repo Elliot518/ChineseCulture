@@ -92,6 +92,10 @@ We Chinese believe that sixty years is a reincarnation.
 One JiaZi-Year is the combination of ten heavenly stems and twelve earthly branches. 
 The earthly branches and heavenly stems match each other. Thus forming a Jiazi.
 
+在中国历法中，甲、乙、丙、丁、戊、己、庚、辛、壬、癸被称为“十天干”。
+
+十二地支，又称十二支，即：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥的总称。
+
 六十干支组合乃为：
 
 　　甲子、乙丑、丙寅、丁卯、戊辰、己巳、庚午、辛未、壬申、癸酉
